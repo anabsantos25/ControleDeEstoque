@@ -58,7 +58,8 @@ O Sistema de Controle de Estoque é uma aplicação desenvolvida na IDE IntelliJ
 ### 💻 **WINDOWS**
 
 #### 1️⃣ Baixando o Código
-1. [Clique *aqui* para fazer o download do código](https://github.com/anabsantos25/Sistema_de_Controle_de_Estoque/archive/refs/heads/master.zip)
+1. [Clique aqui para baixar o código](https://github.com/anabsantos25/ControleDeEstoque/archive/refs/heads/main.zip)
+
 3. Extraia o conteúdo do arquivo ZIP para uma pasta de sua escolha.
 
 #### 2️⃣ Usando no IntelliJ IDEA
@@ -84,7 +85,7 @@ O Sistema de Controle de Estoque é uma aplicação desenvolvida na IDE IntelliJ
 Aqui estão as instruções detalhadas para configurar e executar o projeto no **Mac**, usando **IntelliJ IDEA** ou **VS Code**.
 
 #### 1️⃣ Baixando o Código
-1. [Clique *aqui* para fazer o download do código](https://github.com/anabsantos25/Sistema_de_Controle_de_Estoque/archive/refs/heads/master.zip)
+1. [Clique aqui para baixar o código](https://github.com/anabsantos25/ControleDeEstoque/archive/refs/heads/main.zip)
 2. Extraia o conteúdo do arquivo ZIP para uma pasta de sua escolha.
 
 #### 2️⃣ Usando no IntelliJ IDEA
